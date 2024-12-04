@@ -1,0 +1,3 @@
+issue faced
+1. In confluent kafka we can not specify decimal or timestamp type of datatype data, we can only use premetived datatype so used float for price and string for updated_timestamp
+2. If we want to use multi-threads to execute 5 diff consumers at the same time we cant if we close the connection in finally as it will hamper the execution of other thread so close it in main thread 

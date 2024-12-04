@@ -1,0 +1,16 @@
+ DROP DATABASE IF EXISTS BuyOnline;
+CREATE DATABASE BuyOnline;
+
+use BuyOnline;
+
+-- BEGIN TABLE products
+DROP TABLE IF EXISTS products;
+CREATE TABLE products (
+    product_id INT PRIMARY KEY AUTO_INCREMENT,
+    name VARCHAR(255) NOT NULL,
+    category VARCHAR(100),
+    price DECIMAL(10, 2),
+    updated_timestamp TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
+);
+
+

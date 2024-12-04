@@ -1,0 +1,24 @@
+version: "3.8"  # Specify the Docker Compose version
+
+services:
+  mysql:
+    image: mysql:latest           # Use the latest MySQL image
+    container_name: mysql-container  # Name of the container
+    restart: always               # Automatically restart the container if it stops
+    environment:
+      MYSQL_ROOT_PASSWORD: root_password  # Root user password
+      MYSQL_DATABASE: test_db             # Database to create on startup
+      MYSQL_USER: test_user               # Non-root user
+      MYSQL_PASSWORD: test_password       # Non-root user password
+    ports:
+      - "3306:3306"               # Map MySQL port to the host machine
+    volumes:
+      - ${PWD}/data/product.sql:/docker-entrypoint-initdb.d/z99_dump.sql # Persist MySQL data on a Docker volume
+    networks:
+      - mysql_network             # Use a custom network
+
+volumes:
+  mysql_data:                     # Define the named volume for data persistence
+
+networks:
+  mysql_network:                  # Define the network

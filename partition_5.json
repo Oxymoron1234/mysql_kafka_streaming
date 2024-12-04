@@ -1,0 +1,709 @@
+[
+    {
+        "product_id": 602,
+        "product_name": "Product 28",
+        "category": "Electronics",
+        "price": 92.27999877929688,
+        "updated_timestamp": "2024-12-04 12:21:03"
+    },
+    {
+        "product_id": 607,
+        "product_name": "Product 33",
+        "category": "Book",
+        "price": 74.37000274658203,
+        "updated_timestamp": "2024-12-04 12:21:09"
+    },
+    {
+        "product_id": 778,
+        "product_name": "Product 5",
+        "category": "Home",
+        "price": 152.60000610351562,
+        "updated_timestamp": "2024-12-04 12:46:30"
+    },
+    {
+        "product_id": 790,
+        "product_name": "Product 17",
+        "category": "Electronics",
+        "price": 124.54000091552734,
+        "updated_timestamp": "2024-12-04 12:46:42"
+    },
+    {
+        "product_id": 794,
+        "product_name": "Product 21",
+        "category": "Book",
+        "price": 193.36000061035156,
+        "updated_timestamp": "2024-12-04 12:46:46"
+    },
+    {
+        "product_id": 803,
+        "product_name": "Product 30",
+        "category": "Home",
+        "price": 101.36000061035156,
+        "updated_timestamp": "2024-12-04 12:46:55"
+    },
+    {
+        "product_id": 814,
+        "product_name": "Product 41",
+        "category": "Clothing",
+        "price": 76.47000122070312,
+        "updated_timestamp": "2024-12-04 12:47:07"
+    },
+    {
+        "product_id": 792,
+        "product_name": "Product 19",
+        "category": "Toy",
+        "price": 146.64999389648438,
+        "updated_timestamp": "2024-12-04 12:46:44"
+    },
+    {
+        "product_id": 802,
+        "product_name": "Product 29",
+        "category": "Toy",
+        "price": 143.1999969482422,
+        "updated_timestamp": "2024-12-04 12:46:54"
+    },
+    {
+        "product_id": 817,
+        "product_name": "Product 44",
+        "category": "Clothing",
+        "price": 86.75,
+        "updated_timestamp": "2024-12-04 12:47:10"
+    },
+    {
+        "product_id": 822,
+        "product_name": "Product 49",
+        "category": "Clothing",
+        "price": 62.130001068115234,
+        "updated_timestamp": "2024-12-04 12:47:15"
+    },
+    {
+        "product_id": 800,
+        "product_name": "Product 27",
+        "category": "Book",
+        "price": 189.9499969482422,
+        "updated_timestamp": "2024-12-04 12:46:52"
+    },
+    {
+        "product_id": 808,
+        "product_name": "Product 35",
+        "category": "Electronics",
+        "price": 187.83999633789062,
+        "updated_timestamp": "2024-12-04 12:47:01"
+    },
+    {
+        "product_id": 798,
+        "product_name": "Product 25",
+        "category": "Book",
+        "price": 120.3499984741211,
+        "updated_timestamp": "2024-12-04 12:46:50"
+    },
+    {
+        "product_id": 801,
+        "product_name": "Product 28",
+        "category": "Clothing",
+        "price": 185.66000366210938,
+        "updated_timestamp": "2024-12-04 12:46:53"
+    },
+    {
+        "product_id": 809,
+        "product_name": "Product 36",
+        "category": "Toy",
+        "price": 139.72999572753906,
+        "updated_timestamp": "2024-12-04 12:47:02"
+    },
+    {
+        "product_id": 821,
+        "product_name": "Product 48",
+        "category": "Toy",
+        "price": 49.16999816894531,
+        "updated_timestamp": "2024-12-04 12:47:14"
+    },
+    {
+        "product_id": 804,
+        "product_name": "Product 31",
+        "category": "Electronics",
+        "price": 121.8499984741211,
+        "updated_timestamp": "2024-12-04 12:46:56"
+    },
+    {
+        "product_id": 806,
+        "product_name": "Product 33",
+        "category": "Electronics",
+        "price": 130.77000427246094,
+        "updated_timestamp": "2024-12-04 12:46:59"
+    },
+    {
+        "product_id": 812,
+        "product_name": "Product 39",
+        "category": "Home",
+        "price": 135.0800018310547,
+        "updated_timestamp": "2024-12-04 12:47:05"
+    },
+    {
+        "product_id": 805,
+        "product_name": "Product 32",
+        "category": "Book",
+        "price": 121.04000091552734,
+        "updated_timestamp": "2024-12-04 12:46:58"
+    },
+    {
+        "product_id": 807,
+        "product_name": "Product 34",
+        "category": "Clothing",
+        "price": 71.77999877929688,
+        "updated_timestamp": "2024-12-04 12:47:00"
+    },
+    {
+        "product_id": 795,
+        "product_name": "Product 22",
+        "category": "Electronics",
+        "price": 102.33000183105469,
+        "updated_timestamp": "2024-12-04 12:46:47"
+    },
+    {
+        "product_id": 796,
+        "product_name": "Product 23",
+        "category": "Book",
+        "price": 54.06999969482422,
+        "updated_timestamp": "2024-12-04 12:46:48"
+    },
+    {
+        "product_id": 810,
+        "product_name": "Product 37",
+        "category": "Electronics",
+        "price": 167.7899932861328,
+        "updated_timestamp": "2024-12-04 12:47:03"
+    },
+    {
+        "product_id": 818,
+        "product_name": "Product 45",
+        "category": "Electronics",
+        "price": 94.4000015258789,
+        "updated_timestamp": "2024-12-04 12:47:11"
+    },
+    {
+        "product_id": 797,
+        "product_name": "Product 24",
+        "category": "Clothing",
+        "price": 130.91000366210938,
+        "updated_timestamp": "2024-12-04 12:46:49"
+    },
+    {
+        "product_id": 811,
+        "product_name": "Product 38",
+        "category": "Home",
+        "price": 179.58999633789062,
+        "updated_timestamp": "2024-12-04 12:47:04"
+    },
+    {
+        "product_id": 813,
+        "product_name": "Product 40",
+        "category": "Toy",
+        "price": 180.75999450683594,
+        "updated_timestamp": "2024-12-04 12:47:06"
+    },
+    {
+        "product_id": 793,
+        "product_name": "Product 20",
+        "category": "Toy",
+        "price": 93.19000244140625,
+        "updated_timestamp": "2024-12-04 12:46:45"
+    },
+    {
+        "product_id": 799,
+        "product_name": "Product 26",
+        "category": "Electronics",
+        "price": 50.630001068115234,
+        "updated_timestamp": "2024-12-04 12:46:51"
+    },
+    {
+        "product_id": 815,
+        "product_name": "Product 42",
+        "category": "Home",
+        "price": 86.2300033569336,
+        "updated_timestamp": "2024-12-04 12:47:08"
+    },
+    {
+        "product_id": 816,
+        "product_name": "Product 43",
+        "category": "Toy",
+        "price": 46.08000183105469,
+        "updated_timestamp": "2024-12-04 12:47:09"
+    },
+    {
+        "product_id": 820,
+        "product_name": "Product 47",
+        "category": "Clothing",
+        "price": 96.58999633789062,
+        "updated_timestamp": "2024-12-04 12:47:13"
+    },
+    {
+        "product_id": 823,
+        "product_name": "Product 50",
+        "category": "Clothing",
+        "price": 156.72000122070312,
+        "updated_timestamp": "2024-12-04 12:47:16"
+    },
+    {
+        "product_id": 844,
+        "product_name": "Product 71",
+        "category": "Toy",
+        "price": 156.86000061035156,
+        "updated_timestamp": "2024-12-04 12:47:37"
+    },
+    {
+        "product_id": 851,
+        "product_name": "Product 78",
+        "category": "Electronics",
+        "price": 170.27000427246094,
+        "updated_timestamp": "2024-12-04 12:47:44"
+    },
+    {
+        "product_id": 856,
+        "product_name": "Product 83",
+        "category": "Clothing",
+        "price": 115.01000213623047,
+        "updated_timestamp": "2024-12-04 12:47:50"
+    },
+    {
+        "product_id": 864,
+        "product_name": "Product 91",
+        "category": "Toy",
+        "price": 126.5999984741211,
+        "updated_timestamp": "2024-12-04 12:47:58"
+    },
+    {
+        "product_id": 868,
+        "product_name": "Product 95",
+        "category": "Book",
+        "price": 46.880001068115234,
+        "updated_timestamp": "2024-12-04 12:48:02"
+    },
+    {
+        "product_id": 867,
+        "product_name": "Product 94",
+        "category": "Home",
+        "price": 77.44999694824219,
+        "updated_timestamp": "2024-12-04 12:48:01"
+    },
+    {
+        "product_id": 873,
+        "product_name": "Product 100",
+        "category": "Home",
+        "price": 46.470001220703125,
+        "updated_timestamp": "2024-12-04 12:48:07"
+    },
+    {
+        "product_id": 880,
+        "product_name": "Product 107",
+        "category": "Toy",
+        "price": 77.08999633789062,
+        "updated_timestamp": "2024-12-04 12:48:14"
+    },
+    {
+        "product_id": 883,
+        "product_name": "Product 110",
+        "category": "Electronics",
+        "price": 57.56999969482422,
+        "updated_timestamp": "2024-12-04 12:48:17"
+    },
+    {
+        "product_id": 891,
+        "product_name": "Product 118",
+        "category": "Electronics",
+        "price": 182.27000427246094,
+        "updated_timestamp": "2024-12-04 12:48:25"
+    },
+    {
+        "product_id": 981,
+        "product_name": "Product 9",
+        "category": "Clothing",
+        "price": 198.35000610351562,
+        "updated_timestamp": "2024-12-04 13:01:42"
+    },
+    {
+        "product_id": 998,
+        "product_name": "Product 26",
+        "category": "Clothing",
+        "price": 125.44999694824219,
+        "updated_timestamp": "2024-12-04 13:01:59"
+    },
+    {
+        "product_id": 1019,
+        "product_name": "Product 47",
+        "category": "Book",
+        "price": 162.6300048828125,
+        "updated_timestamp": "2024-12-04 13:02:20"
+    },
+    {
+        "product_id": 1210,
+        "product_name": "Product 39",
+        "category": "Book",
+        "price": 11901.0595703125,
+        "updated_timestamp": "2024-12-04 13:23:49"
+    },
+    {
+        "product_id": 1475,
+        "product_name": "Product 105",
+        "category": "Clothing",
+        "price": 17307.890625,
+        "updated_timestamp": "2024-12-04 13:40:00"
+    },
+    {
+        "product_id": 1476,
+        "product_name": "Product 106",
+        "category": "Clothing",
+        "price": 17149.720703125,
+        "updated_timestamp": "2024-12-04 13:40:01"
+    },
+    {
+        "product_id": 1490,
+        "product_name": "Product 120",
+        "category": "Electronics",
+        "price": 8110.33984375,
+        "updated_timestamp": "2024-12-04 13:40:15"
+    },
+    {
+        "product_id": 1501,
+        "product_name": "Product 131",
+        "category": "Electronics",
+        "price": 11128.2802734375,
+        "updated_timestamp": "2024-12-04 13:40:26"
+    },
+    {
+        "product_id": 1521,
+        "product_name": "Product 151",
+        "category": "Book",
+        "price": 18365.060546875,
+        "updated_timestamp": "2024-12-04 13:40:47"
+    },
+    {
+        "product_id": 1523,
+        "product_name": "Product 153",
+        "category": "Home",
+        "price": 12816.759765625,
+        "updated_timestamp": "2024-12-04 13:40:49"
+    },
+    {
+        "product_id": 1527,
+        "product_name": "Product 157",
+        "category": "Clothing",
+        "price": 18910.509765625,
+        "updated_timestamp": "2024-12-04 13:40:53"
+    },
+    {
+        "product_id": 1528,
+        "product_name": "Product 158",
+        "category": "Home",
+        "price": 24108.009765625,
+        "updated_timestamp": "2024-12-04 13:40:54"
+    },
+    {
+        "product_id": 1540,
+        "product_name": "Product 170",
+        "category": "Clothing",
+        "price": 7360.68017578125,
+        "updated_timestamp": "2024-12-04 13:41:06"
+    },
+    {
+        "product_id": 1541,
+        "product_name": "Product 171",
+        "category": "Clothing",
+        "price": 23049.66015625,
+        "updated_timestamp": "2024-12-04 13:41:07"
+    },
+    {
+        "product_id": 1548,
+        "product_name": "Product 178",
+        "category": "Clothing",
+        "price": 20928.330078125,
+        "updated_timestamp": "2024-12-04 13:41:14"
+    },
+    {
+        "product_id": 1551,
+        "product_name": "Product 181",
+        "category": "Home",
+        "price": 10090.4404296875,
+        "updated_timestamp": "2024-12-04 13:41:17"
+    },
+    {
+        "product_id": 1552,
+        "product_name": "Product 182",
+        "category": "Toy",
+        "price": 12613.4296875,
+        "updated_timestamp": "2024-12-04 13:41:18"
+    },
+    {
+        "product_id": 1554,
+        "product_name": "Product 184",
+        "category": "Book",
+        "price": 14593.419921875,
+        "updated_timestamp": "2024-12-04 13:41:20"
+    },
+    {
+        "product_id": 1559,
+        "product_name": "Product 189",
+        "category": "Book",
+        "price": 22832.169921875,
+        "updated_timestamp": "2024-12-04 13:41:25"
+    },
+    {
+        "product_id": 1564,
+        "product_name": "Product 194",
+        "category": "Home",
+        "price": 10730.0595703125,
+        "updated_timestamp": "2024-12-04 13:41:30"
+    },
+    {
+        "product_id": 1567,
+        "product_name": "Product 197",
+        "category": "Electronics",
+        "price": 7633.68994140625,
+        "updated_timestamp": "2024-12-04 13:41:34"
+    },
+    {
+        "product_id": 1577,
+        "product_name": "Product 8",
+        "category": "Home",
+        "price": 23219.66015625,
+        "updated_timestamp": "2024-12-04 13:45:38"
+    },
+    {
+        "product_id": 1588,
+        "product_name": "Product 19",
+        "category": "Home",
+        "price": 19231.26953125,
+        "updated_timestamp": "2024-12-04 13:45:49"
+    },
+    {
+        "product_id": 1594,
+        "product_name": "Product 25",
+        "category": "Electronics",
+        "price": 14287.1298828125,
+        "updated_timestamp": "2024-12-04 13:45:55"
+    },
+    {
+        "product_id": 1602,
+        "product_name": "Product 33",
+        "category": "Toy",
+        "price": 20131.01953125,
+        "updated_timestamp": "2024-12-04 13:46:04"
+    },
+    {
+        "product_id": 1610,
+        "product_name": "Product 41",
+        "category": "Home",
+        "price": 7998.830078125,
+        "updated_timestamp": "2024-12-04 13:46:12"
+    },
+    {
+        "product_id": 1613,
+        "product_name": "Product 44",
+        "category": "Clothing",
+        "price": 12902.41015625,
+        "updated_timestamp": "2024-12-04 13:46:15"
+    },
+    {
+        "product_id": 1615,
+        "product_name": "Product 46",
+        "category": "Book",
+        "price": 7038.52001953125,
+        "updated_timestamp": "2024-12-04 13:46:17"
+    },
+    {
+        "product_id": 1621,
+        "product_name": "Product 52",
+        "category": "Electronics",
+        "price": 18678.650390625,
+        "updated_timestamp": "2024-12-04 13:46:23"
+    },
+    {
+        "product_id": 1623,
+        "product_name": "Product 54",
+        "category": "Electronics",
+        "price": 17137.2109375,
+        "updated_timestamp": "2024-12-04 13:46:25"
+    },
+    {
+        "product_id": 1632,
+        "product_name": "Product 63",
+        "category": "Toy",
+        "price": 14689.3798828125,
+        "updated_timestamp": "2024-12-04 13:46:34"
+    },
+    {
+        "product_id": 1633,
+        "product_name": "Product 64",
+        "category": "Home",
+        "price": 9306.240234375,
+        "updated_timestamp": "2024-12-04 13:46:35"
+    },
+    {
+        "product_id": 1635,
+        "product_name": "Product 66",
+        "category": "Home",
+        "price": 18617.390625,
+        "updated_timestamp": "2024-12-04 13:46:37"
+    },
+    {
+        "product_id": 1643,
+        "product_name": "Product 74",
+        "category": "Clothing",
+        "price": 8280.6103515625,
+        "updated_timestamp": "2024-12-04 13:46:46"
+    },
+    {
+        "product_id": 1647,
+        "product_name": "Product 78",
+        "category": "Electronics",
+        "price": 21005.51953125,
+        "updated_timestamp": "2024-12-04 13:46:50"
+    },
+    {
+        "product_id": 1658,
+        "product_name": "Product 89",
+        "category": "Toy",
+        "price": 12075.0,
+        "updated_timestamp": "2024-12-04 13:47:01"
+    },
+    {
+        "product_id": 1667,
+        "product_name": "Product 98",
+        "category": "Book",
+        "price": 13489.7197265625,
+        "updated_timestamp": "2024-12-04 13:47:10"
+    },
+    {
+        "product_id": 1675,
+        "product_name": "Product 106",
+        "category": "Book",
+        "price": 18689.529296875,
+        "updated_timestamp": "2024-12-04 13:47:18"
+    },
+    {
+        "product_id": 1684,
+        "product_name": "Product 115",
+        "category": "Book",
+        "price": 7299.02978515625,
+        "updated_timestamp": "2024-12-04 13:47:27"
+    },
+    {
+        "product_id": 1686,
+        "product_name": "Product 117",
+        "category": "Electronics",
+        "price": 7313.8798828125,
+        "updated_timestamp": "2024-12-04 13:47:29"
+    },
+    {
+        "product_id": 1691,
+        "product_name": "Product 122",
+        "category": "Electronics",
+        "price": 20136.76953125,
+        "updated_timestamp": "2024-12-04 13:47:35"
+    },
+    {
+        "product_id": 1692,
+        "product_name": "Product 123",
+        "category": "Toy",
+        "price": 10101.5498046875,
+        "updated_timestamp": "2024-12-04 13:47:36"
+    },
+    {
+        "product_id": 1706,
+        "product_name": "Product 137",
+        "category": "Book",
+        "price": 11248.6103515625,
+        "updated_timestamp": "2024-12-04 13:47:50"
+    },
+    {
+        "product_id": 1712,
+        "product_name": "Product 143",
+        "category": "Toy",
+        "price": 7725.97021484375,
+        "updated_timestamp": "2024-12-04 13:47:56"
+    },
+    {
+        "product_id": 1711,
+        "product_name": "Product 142",
+        "category": "Toy",
+        "price": 13159.73046875,
+        "updated_timestamp": "2024-12-04 13:47:55"
+    },
+    {
+        "product_id": 1713,
+        "product_name": "Product 144",
+        "category": "Clothing",
+        "price": 16868.259765625,
+        "updated_timestamp": "2024-12-04 13:47:57"
+    },
+    {
+        "product_id": 1727,
+        "product_name": "Product 158",
+        "category": "Book",
+        "price": 5039.31005859375,
+        "updated_timestamp": "2024-12-04 13:48:11"
+    },
+    {
+        "product_id": 1728,
+        "product_name": "Product 159",
+        "category": "Book",
+        "price": 16078.580078125,
+        "updated_timestamp": "2024-12-04 13:48:12"
+    },
+    {
+        "product_id": 1735,
+        "product_name": "Product 166",
+        "category": "Home",
+        "price": 15897.1904296875,
+        "updated_timestamp": "2024-12-04 13:48:19"
+    },
+    {
+        "product_id": 1740,
+        "product_name": "Product 171",
+        "category": "Toy",
+        "price": 4840.14013671875,
+        "updated_timestamp": "2024-12-04 13:48:24"
+    },
+    {
+        "product_id": 1741,
+        "product_name": "Product 172",
+        "category": "Book",
+        "price": 18542.990234375,
+        "updated_timestamp": "2024-12-04 13:48:25"
+    },
+    {
+        "product_id": 1749,
+        "product_name": "Product 180",
+        "category": "Clothing",
+        "price": 13003.58984375,
+        "updated_timestamp": "2024-12-04 13:48:34"
+    },
+    {
+        "product_id": 1751,
+        "product_name": "Product 182",
+        "category": "Book",
+        "price": 17078.76953125,
+        "updated_timestamp": "2024-12-04 13:48:36"
+    },
+    {
+        "product_id": 1754,
+        "product_name": "Product 185",
+        "category": "Home",
+        "price": 5235.75,
+        "updated_timestamp": "2024-12-04 13:48:39"
+    },
+    {
+        "product_id": 1757,
+        "product_name": "Product 188",
+        "category": "Clothing",
+        "price": 13730.4697265625,
+        "updated_timestamp": "2024-12-04 13:48:42"
+    },
+    {
+        "product_id": 1764,
+        "product_name": "Product 195",
+        "category": "Electronics",
+        "price": 19265.580078125,
+        "updated_timestamp": "2024-12-04 13:48:49"
+    }
+]
